@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 matrix/
+app/__pycache__/
+app/__pycache__/routes.cpython-36.pyc
